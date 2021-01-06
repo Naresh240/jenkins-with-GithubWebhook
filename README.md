@@ -20,5 +20,5 @@
 
   Click on Build
 # Change code in Github repo
-  Build will happen automatically as show in below image
+  Build will happen automatically as show in below image:
   
