@@ -1,4 +1,4 @@
-# Github-webhook-with-jenkins - testing
+# Github-webhook-with-jenkins
 
 # Pre-requisites:
     Github Repo
